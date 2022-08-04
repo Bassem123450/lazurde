@@ -1,0 +1,44 @@
+.mylala{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: 100px;
+   }                     
+.mylala img{
+display: flex;
+justify-content: center;
+flex-direction: row;
+flex-wrap: nowrap; }
+.mynana {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: 100px;
+}
+.mynana img {
+    display: flex;
+justify-content: center;
+flex-direction: row;
+flex-wrap: nowrap;
+}
+.buy {
+    background-color: goldenrod;
+    text-align: center;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+.mybaba{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: 100px;
+}
+.mybaba img {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}

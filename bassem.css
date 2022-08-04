@@ -1,0 +1,69 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.mynav{
+    font-family: 'Inconsolata', monospace;
+}
+.my navc{
+    display: flex;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+flex-direction: column;
+
+}
+.aboutus {
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+.aboutus p {
+    text-align: center;
+    font-family: 'Inika', serif;
+}
+.papa{
+    display: inline-block;
+padding-left: 101px;
+margin-left: 172px;
+padding-right: 235px;
+}
+.card {
+    display: flex;
+justify-content: center;
+justify-content: space-evenly;
+flex-direction: row;
+flex-wrap: wrap;
+margin: 15px 0;
+}
+.card img {
+        flex-wrap: wrap;
+        margin: 15px 0;
+        width: 600px;
+        height: 500px;
+}
+.cc{
+    text-align: center;
+}
+.end {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 15px 0;
+    margin-left: 25%;
+    opacity: 70%;
+}
+.card img {
+    flex-wrap: wrap;
+    margin: 15px 0;
+    width: 600px;
+    height: 500px;
+}
+.end p {
+    margin-right: 30%;
+    padding-left: 70px;
+    padding-right: 70px;
+    flex-direction: column;
+}

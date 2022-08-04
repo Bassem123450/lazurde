@@ -1,0 +1,49 @@
+
+
+.navbar a{margin-right:4em ;
+    text-decoration: none;
+    color: gray;
+}
+.navbar h3 { margin-right: 3em; font-family: 'Cinzel', serif;
+color: rgb(194, 115, 115);
+}
+.new{
+  text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+.warpper{
+    display: flex;
+       align-items: center;
+       justify-content: center;
+       margin: 1em; 
+        flex-wrap: wrap;
+      
+}
+        
+     .mylala{
+      display: flex;
+      justify-content: center;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      margin-left: 100px;
+     }                     
+.mylala img  {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}                       
+.middel{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.middel img{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+                   
